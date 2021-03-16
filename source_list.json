@@ -1,0 +1,42 @@
+[
+    {
+        "title": "",
+        "serverUrl": "https://ottapp-appgw-amp-a.proda.tmo.tv3cloud.com",
+        "ownerUid": "azuki",
+        "primaryAccount": "",
+        "tenantId": "",
+        "mediaUid": "TestData_10196_Jitp_Reach_HD",
+        "appToken": "",
+        "playbackMode": "VOD",
+        "stsToken": "",
+        "catchupStartTime": ""
+    },
+    {
+        "channelNumber": 2,
+        "channelCallLetters": "KTVU",
+        "title": "KTVU",
+        "serverUrl": "https://ottapp-appgw-amp-a.proda.tmo.tv3cloud.com",
+        "ownerUid": "azuki",
+        "primaryAccount": "",
+        "tenantId": "",
+        "mediaUid": "LIVE$4346",
+        "appToken": 427585,
+        "playbackMode": "LIVE",
+        "stsToken": "",
+        "catchupStartTime": ""
+    },
+    {
+        "channelNumber": 402,
+        "channelCallLetters": "KTVUHD",
+        "title": "KTVUHD",
+        "serverUrl": "https://ottapp-appgw-amp-a.proda.tmo.tv3cloud.com",
+        "ownerUid": "azuki",
+        "primaryAccount": "",
+        "tenantId": "",
+        "mediaUid": "LIVE$13574",
+        "appToken": 427559,
+        "playbackMode": "LIVE",
+        "stsToken": "",
+        "catchupStartTime": ""
+    }
+]
